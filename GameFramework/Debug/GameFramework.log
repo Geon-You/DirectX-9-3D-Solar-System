@@ -1,0 +1,46 @@
+﻿  BillBoard.cpp
+  Character.cpp
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\Character.cpp(28,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\Character.cpp(68,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Device.cpp
+  GameFramework.cpp
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\GameFramework.cpp(50,18): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\GameFramework.cpp(71,40): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ingame.cpp
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\SkyBox.h(4,16): warning C4091: 'typedef ': 변수를 선언하지 않으면 'CubeVertex' 왼쪽은 무시됩니다.
+  (소스 파일 'Ingame.cpp'을(를) 컴파일하는 중)
+  
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\SkyBox.h(10,16): warning C4091: 'typedef ': 변수를 선언하지 않으면 'MYINDEX' 왼쪽은 무시됩니다.
+  (소스 파일 'Ingame.cpp'을(를) 컴파일하는 중)
+  
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\Ingame.cpp(70,37): warning C4838: 'LONG'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\Ingame.cpp(70,58): warning C4838: 'LONG'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+  KeyAnimObj.cpp
+  MainGame.cpp
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\SkyBox.h(4,16): warning C4091: 'typedef ': 변수를 선언하지 않으면 'CubeVertex' 왼쪽은 무시됩니다.
+  (소스 파일 'MainGame.cpp'을(를) 컴파일하는 중)
+  
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\SkyBox.h(10,16): warning C4091: 'typedef ': 변수를 선언하지 않으면 'MYINDEX' 왼쪽은 무시됩니다.
+  (소스 파일 'MainGame.cpp'을(를) 컴파일하는 중)
+  
+  Scene.cpp
+  Shape.cpp
+  SkyBox.cpp
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\SkyBox.h(4,16): warning C4091: 'typedef ': 변수를 선언하지 않으면 'CubeVertex' 왼쪽은 무시됩니다.
+  (소스 파일 'SkyBox.cpp'을(를) 컴파일하는 중)
+  
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\SkyBox.h(10,16): warning C4091: 'typedef ': 변수를 선언하지 않으면 'MYINDEX' 왼쪽은 무시됩니다.
+  (소스 파일 'SkyBox.cpp'을(를) 컴파일하는 중)
+  
+  SolarSystem.cpp
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\SolarSystem.cpp(139,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\SolarSystem.cpp(171,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Terrain.cpp
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\Terrain.cpp(188,24): warning C4244: '=': 'unsigned long'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\Terrain.cpp(189,28): warning C4244: '=': 'unsigned long'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\Terrain.cpp(190,30): warning C4244: '=': 'unsigned long'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\Terrain.cpp(196,30): warning C4244: '=': 'unsigned long'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\Terrain.cpp(197,28): warning C4244: '=': 'unsigned long'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\Terrain.cpp(198,34): warning C4244: '=': 'unsigned long'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  GameFramework.vcxproj -> D:\My 자료들\게임프로그래밍\클라이언트\겜프5 DirectX\3D\D3D_Framework8 - 태양계 구현 수업ver\Debug\GameFramework.exe
